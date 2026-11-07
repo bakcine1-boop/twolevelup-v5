@@ -114,7 +114,7 @@ window.EPISODES = [
     { img: "v91.jpg", els: [["cap", "top:5%;left:4%", "새벽 2시. 편집실에서 곧장 온 아빠."], ["b tu tr", "bottom:6%;right:3%;max-width:40%", N('아빠')+"…잘했다, 시온아."]] },
     { gap: "" },
     { img: "v90.jpg", els: [["cap", "top:5%;left:4%;max-width:62%", "새벽 5시. 샤론은 그 사진을 끝까지 놓지 않았다."]] },
-    { img: "v59.jpg", els: [["note", "top:27%;left:47%;width:35%;--fs:17", "두려워하지 말라<br>내가 너와 함께 함이라<br><span style='font-size:.72em'>(사 41:10)</span><br><span style='font-size:.85em'>시온아, 천천히 와도 된다.<br>할아버지가 매일 기도한다.</span>"]] },
+    { img: "v54.jpg" },
     { img: "v49.jpg", lay: "inset", els: [["b tu tl", "bottom:6%;left:5%;max-width:80%", N('엄마')+"…아빠 글씨다."]] },
     { gap: "l" },
     { img: "v50.jpg", els: [["sys c", "bottom:6%;white-space:nowrap", "오늘 걸음 <b>8,046</b> / 8,000 ✓"]] },
